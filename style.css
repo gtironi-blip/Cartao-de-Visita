@@ -1,12 +1,17 @@
-body{
+body{ 
     background-color:paleturquoise;
     text-align: center;
+    background-image: url(https://media.tenor.com/jm5-R0IngHoAAAAi/maxwell.gif); /*creditos totais ao enzo*/
+    /*background-image: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Zvc3F4eXdiNzNkNWQwNW52b3hhMTFybTVhaDFpbjVvaXI2bjFtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i17zHLTMt1SmJMv6Aw/giphy.gif);*/
+    
 }
 .CartaoDeVisita {
     width: 40%;
-    background-color: aquamarine;
+    background-color:rgb(95, 158, 160, 0.8);
     margin: auto;
-
+    border-radius: 40px;
+    border-style: groove;
+    
 }
 img {
      width: 250px;
@@ -15,19 +20,15 @@ img {
 }
 
 h2 {
-    color: red
+    color:darkblue;
 }
 
-.dois {
-    color: darkred;
-    text-align: left;
-    font-size: large;
-    font-family:cursive
+
+a {
+    text-decoration: none;
 }
 
-h1 {
-    
-}
+
 
 
 
